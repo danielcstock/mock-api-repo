@@ -1,0 +1,128 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "89911004-4c5a-4b11-86af-2bd1092efce1",
+            "points": 5,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-08-01T15:44:45.086558Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "bdc6091d-f5eb-4f8b-a448-fe223c0d21d8",
+            "points": 5442,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-31T18:31:01.613374Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "75690421-5124-4f2c-be15-50d66af2244b",
+            "points": 6268,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-31T17:30:00.818384Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "393f3a27-0e7b-48bd-82d4-c920e29d156c",
+            "points": 817,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-30T14:09:54.076318Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "beadb15d-ce5b-4a03-91f8-44c94d29ece7",
+            "points": 817,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-30T14:01:50.457724Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "379c340c-c22f-4832-9ade-016baeb389ca",
+            "points": 817,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-30T13:45:55.787920Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "d3a23013-19eb-490f-9177-90f8d8c79fc4",
+            "points": 6530,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-30T13:33:19.874054Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "d1b58485-6fab-4cdd-9c17-f72cb4c99183",
+            "points": 5442,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-30T13:31:55.086035Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "02b4ef5a-b1ad-4836-9e23-3309bf1b2901",
+            "points": 5442,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-29T11:59:39.801072Z",
+            "event_type": "lockedPointsRedemption",
+            "description": "Resgate de pontos",
+            "type": "debit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "29a09b75-9f27-4861-b7da-8fa35dca11be",
+            "points": 50000,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-24T20:13:47.688870Z",
+            "event_type": "other",
+            "description": "Outro evento",
+            "type": "credit",
+            "purchase_detail": null,
+            "additional_data": null
+        },
+        {
+            "id": "20870e91-1d33-4e66-9689-e46f31ec8817",
+            "points": 50000,
+            "account_id": "333e967e-5d95-470e-bd7d-2e39ebf96f01",
+            "item_date": "2025-07-24T20:12:07.861816Z",
+            "event_type": "other",
+            "description": "Outro evento",
+            "type": "credit",
+            "purchase_detail": null,
+            "additional_data": null
+        }
+    ]
+}
